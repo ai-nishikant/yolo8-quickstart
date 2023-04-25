@@ -2,6 +2,8 @@
 
 This is a Python script for object detection predictions on an image using a pre-trained YOLOv8 model with OpenCV visualization.
 
+**Create a Anaconda Environment**
+
 **Prerequisites**
 
 Before running the script, you will need to install the following dependencies:
