@@ -1,0 +1,6 @@
+1. Create a new env without python 
+	conda create --name env_yolo8
+2. Install ultralytics yolo8 using pip
+	pip install ultralytics
+3. Install onnx for exporting the model
+	pip install onnx
